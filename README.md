@@ -5,4 +5,4 @@
 🇳🇿 I'm from Aoteāroa/New Zealand, born in the capital of Wellington.  
 ☀️ Have a good day!  
   
-[My PGP key](https://jacksonrakena.com/abyssal.asc) - [Join my Discord server](https://abyssaldev.com/discord)
+[Sponsor me](https://github.com/sponsors/abyssal) - [My PGP key](https://jacksonrakena.com/abyssal.asc) - [Join my Discord server](https://abyssaldev.com/discord)
